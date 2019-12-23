@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\bin\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.exe
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\bin\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.deps.json
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\bin\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.runtimeconfig.json
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\bin\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\bin\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.dll
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\bin\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.pdb
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\obj\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\obj\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\obj\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.AssemblyInfo.cs
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\obj\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.dll
+C:\Users\Remus Iftimie\source\repos\Lab02_LogicalExpression_ConditionalStatement\obj\Debug\netcoreapp3.1\Lab02_LogicalExpression_ConditionalStatement.pdb
